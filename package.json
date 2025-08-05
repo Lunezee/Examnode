@@ -1,0 +1,16 @@
+{
+  "name": "vehicle-rental-platform",
+  "version": "1.0.0",
+  "description": "A vehicle rental platform built with Node.js and Express.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  },
+  "author": "",
+  "license": "ISC"
+}
